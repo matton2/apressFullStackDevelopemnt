@@ -1,0 +1,24 @@
+{
+  "name": "apressfullstackdevelopemnt",
+  "version": "1.0.0",
+  "description": "project to code along with Modern Full Stack Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_time.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matton2/apressFullStackDevelopemnt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matton2/apressFullStackDevelopemnt/issues"
+  },
+  "homepage": "https://github.com/matton2/apressFullStackDevelopemnt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
